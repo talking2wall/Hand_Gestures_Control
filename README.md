@@ -1,4 +1,4 @@
-# Hand_Gestures_Control
+# Hand Gestures Control
 Moving objects on camera with hand gestures.
 
 ## Actual Image
