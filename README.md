@@ -2,4 +2,4 @@
 Moving objects on camera view using hand gestures.
 
 # Actual Image
-<img src="https://i.ibb.co/L5VgTzV/ash5.gif"/>
+<img src="https://i.postimg.cc/Gty4ypfT/ash5.gif"/>
