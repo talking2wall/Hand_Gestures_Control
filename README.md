@@ -10,6 +10,6 @@ Moving objects on camera with hand gestures.
 3. Move your hand around the camera to move the objects.
 
 ## Development Enviroment
-- **Program:** _Visual Studio Code_
+- **IDE:** _Visual Studio Code_
 - **Platform:** _MediaPipe_
 - **Programing Language:** _Python_
